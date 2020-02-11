@@ -1,0 +1,7 @@
+NOTE: All measured times are in milliseconds with 6 decimal places ..... the sample size is the size of the array sorted
+
+Sample Size;Bubble; Insertion; Selection; Merge; Quick
+100;0.23705;0.1094;0.13636;0.092338;0.035925;
+1000;6.740999;3.60486;4.521308;1.125187;0.608011;
+10000;234.148965;42.913405;52.281964;3.136323;1.980263;
+100000;20941.040948;1419.719406;3436.794503;16.587477;7.016446;
